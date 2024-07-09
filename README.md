@@ -1,5 +1,18 @@
 
-envanter
+bu aşağıdaki leri qb-logs a veya qb-smalresource nin içine yapıştırın ve webhooklarını girin
+
+    ["yereatma"] = "",
+    ["eşyasilindi"] = "",
+    ["eşyaeklendi"] = "",
+    ["envantertemizlendi"] = "",
+    ["envanterayarlandı"] = "",
+    ["yerekoyma"] = "",
+    ["torpidokoyma"] = "",
+    ["bagajkoyma"] = "",
+    ["depokoyma"] = "",
+    ["shops"] = "",
+    ["adamsoyma"] = "",
+
 
 
 ![image](https://github.com/Uygyguyu/qb-inventory/assets/136438415/d7b4c6e3-aeac-4bb5-adb5-f2ab21beadbf)
