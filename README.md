@@ -1,6 +1,7 @@
 
 envanter
 
+![image](https://github.com/Uygyguyu/qb-inventory/assets/136438415/90e7f0b3-d71f-4adb-9dea-14edafa0796f)
 
 ![image](https://github.com/Uygyguyu/qb-inventory/assets/136438415/36baf370-117a-401e-80e4-d93c0c84ff49)
 
